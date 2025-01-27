@@ -1,0 +1,10 @@
+@font-face 
+{
+    font-family: montreal;
+    src: url(./Assets/montreal-light.ttf);
+}
+*
+{
+    font-family: montreal !important;
+    font-size: 18px;
+}
